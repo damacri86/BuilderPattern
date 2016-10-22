@@ -1,5 +1,5 @@
 // Example of the Builder Pattern
-// This is a very usefull creational patter used to create complex objects
+// This is a very useful creational pattern used to create complex objects
 
 class SuperHeroBuilder {
     
